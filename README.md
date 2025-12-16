@@ -1,24 +1,26 @@
-# 📝 Attractive To-Do List Web App
+# 📝 Taskify – To-Do List Web App
 
-A simple, clean, and colorful To-Do List web application built using **HTML, CSS, and JavaScript**.  
-This project is beginner-friendly and suitable as a **mini project, portfolio project, or GSoC starter project**.
+Taskify is a clean, lightweight, and visually appealing To-Do List web application built using **HTML, CSS, and JavaScript**.  
+It helps users organize daily tasks efficiently with an intuitive interface and persistent storage.
+
+This project focuses on simplicity, usability, and modern UI design while keeping the codebase beginner-friendly and easy to extend.
 
 ---
 
 ## ✨ Features
-- ➕ Add new tasks
+- ➕ Add new tasks instantly
 - ✅ Mark tasks as completed
 - 🗑️ Delete tasks
-- 💾 Saves tasks using browser localStorage
-- 🎨 Modern UI with gradient background
-- 📱 Responsive and lightweight
+- 💾 Automatically saves tasks using browser localStorage
+- 🎨 Clean and colorful user interface
+- 📱 Responsive design for different screen sizes
 
 ---
 
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
+## 🛠️ Technologies Used
+- **HTML5** – Structure  
+- **CSS3** – Styling and layout  
+- **JavaScript (Vanilla)** – Functionality and interactivity  
 
 ---
 
@@ -29,3 +31,13 @@ TodoSpark/
 │── style.css
 │── script.js
 │── README.md
+
+---
+
+## 🚀 How to Run the Project
+
+### Option 1: Run Directly (Simplest)
+1. Download or clone the repository
+   ```bash
+   git clone https://github.com/your-username/taskify.git
+
