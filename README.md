@@ -37,7 +37,7 @@ TodoSpark/
 ## 🚀 How to Run the Project
 
 ### Option 1: Run Directly (Simplest)
-1.Download or clone the repository
+ 1.Download or clone the repository
    ```bash
    git clone https://github.com/your-username/taskify.git
 2.Open the project folder
