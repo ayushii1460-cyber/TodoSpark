@@ -23,3 +23,9 @@ This project is beginner-friendly and suitable as a **mini project, portfolio pr
 ---
 
 ## 📂 Project Structure
+```bash
+TodoSpark/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
