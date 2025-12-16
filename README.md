@@ -40,4 +40,21 @@ TodoSpark/
 1. Download or clone the repository
    ```bash
    git clone https://github.com/your-username/taskify.git
+2.Open the project folder
+
+3.Double-click index.html
+
+4.The app will open in your browser
+
+Method 2: Using VS Code Live Server
+
+1.Open the project folder in VS Code
+
+2.Install the Live Server extension
+
+3.Right-click index.html
+
+4.Select Open with Live Server
+
+
 
